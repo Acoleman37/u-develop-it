@@ -1,1 +1,1 @@
-# u-develop-it
+A back end for U Vote It, a voting application for a local developer meetup group called U Develop It. In addition to building the Express.js API, I will connect the back end to a relational database using MySQL.
